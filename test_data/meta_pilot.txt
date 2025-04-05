@@ -1,0 +1,2 @@
+./test_data/data/sorted_P3469_scMN_A1_S1_dedup_25kb_bin_q20.bed	A1	MN
+./test_data/data/sorted_P3469_scMN_B6_S12_dedup_25kb_bin_q20.bed	B6	PN
